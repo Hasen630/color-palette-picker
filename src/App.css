@@ -1,0 +1,78 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card {
+  width: 500px;
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.color-btn {
+  padding: 12px 18px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.color-btn:hover {
+  transform: scale(1.05);
+}
+
+.active {
+  border: 4px solid black;
+  transform: scale(1.08);
+}
+
+.preview-container {
+  margin-top: 25px;
+}
+
+.preview-box {
+  width: 220px;
+  height: 220px;
+  margin: auto;
+  border-radius: 12px;
+  border: 2px solid #ddd;
+}
+
+.message {
+  font-size: 18px;
+  color: gray;
+  margin: 30px 0;
+}
+
+.reset-btn {
+  margin-top: 20px;
+  padding: 10px 25px;
+  border: none;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.reset-btn:hover {
+  background-color: #444;
+}
