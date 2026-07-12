@@ -70,8 +70,7 @@ npm run dev
 
 ## 📸 Application Screenshot
 
-(Add a screenshot here.)
-
+![Color Palette Picker](./assets/screenshot.png)
 ## 📚 Concepts Practiced
 
 - JSX
