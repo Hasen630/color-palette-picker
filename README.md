@@ -47,7 +47,7 @@ color-palette-picker/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/color-palette-picker.git
+git clone https://github.com/Hasen630/color-palette-picker.git
 ```
 
 2. Navigate to the project folder:
@@ -84,4 +84,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Your Name
+Hasen Ahmed
